@@ -1,0 +1,59 @@
+body {
+    background-image: url(images/background.2psd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+}
+
+
+
+h1 {
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2.5px;
+    color:#EC96A4;
+    letter-spacing: 5px;
+    font-size: 200px;
+    text-align: center;
+    font-weight: 800;
+    line-height: 78px;
+    font-family: Garamond;
+    position: relative;
+}
+
+
+h3 {
+    color: #DFE166;
+    font-size: 13px;
+    text-align: center;
+    position:relative;
+    bottom: -300px;
+    right: -650px;
+    justify-content: right;
+    margin: auto;
+    font-weight: 400;
+    line-height: 78px;
+    font-family: Garamond;
+}
+
+button {
+    font-family: Jost;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    line-height: 20px;
+    position: relative;
+    top: 340px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-transform: uppercase;
+    padding: 16px 32px 14px;
+    background-color:#EC96A4;
+    color:white;
+    border: 2px solid white;
+}
+
+button:hover {
+    background-color: white;
+    color: #EC96A4;
+    border: 1px solid #EC96A4;
+    cursor: pointer;
+}
