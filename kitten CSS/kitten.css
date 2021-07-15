@@ -46,14 +46,14 @@ button {
     transform: translateX(-50%);
     text-transform: uppercase;
     padding: 16px 32px 14px;
-    background-color:#EC96A4;
+    background-color:#DFE166;
     color:white;
     border: 2px solid white;
 }
 
 button:hover {
     background-color: white;
-    color: #EC96A4;
-    border: 1px solid #EC96A4;
+    color: #DFE166;
+    border: 1px solid #DFE166;
     cursor: pointer;
 }
