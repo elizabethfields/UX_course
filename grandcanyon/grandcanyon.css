@@ -1,0 +1,56 @@
+body {
+    background-image: url("images/R\ \(1\).jpg");
+    background-repeat: no-repeat;
+  }
+
+.div1 {
+  margin: auto;
+  position: center;
+}
+
+h1 {
+    font-family: 'Built Titling';
+    font-weight: bolder;
+    font-size: 300px;
+    color: white;
+    text-align: center;
+    font-size: 220px;
+    color: white;
+    text-align: center;
+    margin-bottom: -150px;
+    margin-top: -20px;
+}
+
+h2 {
+    font-family: 'ovation';
+    font-weight: lighter;
+    font-size: 120px;
+    color: white;
+    text-align: center;
+}
+
+.button {
+  margin: auto;
+  position: center;
+}
+
+button {
+  font-family: 'Built Titling';
+  font-weight: bolder;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  margin-bottom: -150px;
+  margin-top: -20px;
+  margin-right: -200px;
+  margin-left: 650px;
+  margin-top: 200px;
+  border: 5px solid white;
+  background-color: transparent;
+  
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: black;
+}

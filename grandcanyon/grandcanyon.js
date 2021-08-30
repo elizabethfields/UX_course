@@ -1,0 +1,1 @@
+window.alert("Visit the Grand Canyon!");
